@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pengW1n13
+- 👋 Hi, I’m @lzre
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python/HTML/CSS/JavaScript/Web-design
 <!---
